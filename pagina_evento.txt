@@ -1,0 +1,1578 @@
+
+
+<!doctype html>
+<html lang="pt">
+<head>
+    <title>8º INTEGRA IF GOIANO  - CAMPUS CAMPOS BELOS | 21 a 24 de setembro</title>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Fontes -->
+    <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+
+    <!-- Bootstrap CSS -->
+    <link href="/static/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- CSS do projeto -->
+    <link rel="icon" href="/static/favicon.ico" type="image/x-icon">
+    
+    
+    <link rel="stylesheet" href="/static/assets/css/style.css">
+    <link rel="stylesheet" href="/static/assets/css/owl.css">
+    <link rel="stylesheet" href="/static/assets/css/lightbox.css">
+
+
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script type="text/javascript" language="javascript" src="/static/vendor/jquery/jquery-3.6.0.min.js"></script>
+    <script src="/static/vendor/popper/popper.min.js"></script>
+    <script src="/static/vendor/bootstrap/js/bootstrap.min.js"></script>
+    <!--<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>-->
+
+    <!-- Moment.js -->
+    <script src="/static/vendor/moment/moment.min.js"></script>
+
+    <!-- Tempus Dominus Bootstrap 4 -->
+    <link rel="stylesheet" href="/static/vendor/tempusdominus/tempusdominus-bootstrap-4.min.css"  />
+    <script src="/static/vendor/tempusdominus/tempusdominus-bootstrap-4.min.js"></script>
+    <script src="/static/vendor/tempusdominus/tempusdominus-pt.js"></script>
+
+    <!-- CKeditor -->
+    <script type="text/javascript" src="/static/vendor/ckeditor/ckeditor-init.js"></script>
+    <script type="text/javascript" src="/static/vendor/ckeditor/ckeditor/ckeditor.js"></script>
+
+    <!-- Select2  -->
+    <link href="/static/vendor/select2/dist/css/select2.min.css"  rel="stylesheet" />
+    <link rel="stylesheet" href="/static/vendor/select2/dist/css/select2_bootstrap4.min.css">
+    <script src="/static/vendor/select2/dist/js/select2.full.min.js"></script>
+
+
+    <!-- datatables -->
+    <link rel="stylesheet" href="/static/vendor/datatables/css/dataTables.bootstrap4.min.css">
+    <script src="/static/vendor/datatables/js/jquery.dataTables.min.js"></script>
+    <script type="text/javascript" language="javascript" src="/static/vendor/datatables/js/dataTables.bootstrap4.min.js"></script>
+    <script type="text/javascript" language="javascript" src="/static/vendor/datatables/fnFilterOnReturn.js"></script>
+    <script type="text/javascript" language="javascript" src="/static/vendor/datatables/Buttons-1.7.0/js/dataTables.buttons.min.js"></script>
+    <script type="text/javascript" language="javascript" src="/static/vendor/datatables/jszip.min.js"></script>
+    <script type="text/javascript" language="javascript" src="/static/vendor/datatables/Buttons-1.7.0/js/buttons.html5.min.js"></script>
+
+
+    
+</head>
+
+<body>
+<div class="wrapper">
+    
+
+<body>
+<header class="navbar-area">
+    <div >
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <nav class="main-nav">
+                        <!-- Logo Start -->
+
+                        <a href="/" class="logo">
+                            <img src="/static/assets/images/logo_branco.png" alt=""
+                                 height="90"
+                                 id="logo-if"/>
+                        </a>
+                        
+
+                        <!-- Logo End -->
+
+                        <!-- Menu Start -->
+                        <ul class="nav">
+                            
+                                
+                                    
+                                        <li><a href="/" class="meetings">Eventos</a></li>
+                                        <li><a href="/gerenciador/" class="meetings">Gerenciador</a></li>
+                                    
+                                    
+                                        <li>
+                                            <a href="/accounts/login/"><i class="fa fa-sign-in mr-1"></i>Entrar</a>
+                                        </li>
+                                    
+                                
+                            
+                        </ul>
+
+                        <a class="menu-trigger">
+                            <span>Menu</span>
+                        </a>
+                        <!-- Menu End -->
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+</body>
+
+
+
+    
+    
+
+    
+<section class="heading-evento-page header-text" id="top">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                
+                    <h5>Campus Campos Belos</h5>
+                    <h2>8º INTEGRA IF GOIANO  - CAMPUS CAMPOS BELOS | 21 a 24 de setembro</h2>
+                
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="evento-page">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="row">
+                    <div class="col-lg-12 mb-5"><div class="image mb-0"><img src="/media/static/eventos/Integra_2026.png" alt="Banner 8º INTEGRA IF GOIANO  - CAMPUS CAMPOS BELOS | 21 a 24 de setembro" class="w-100"></div></div>
+                    <div class="col-lg-12">
+                        <div class="main-content-event">
+                            <div>
+                                <h4>APRESENTAÇÃO:</h4>
+                                <p>O Integra IF Goiano 2026 ser&aacute; palco de um encontro voltado &agrave; ci&ecirc;ncia, cultura, inova&ccedil;&atilde;o e ao fortalecimento da identidade da Rede Federal. Reunindo estudantes e servidores de todos os campi da Institui&ccedil;&atilde;o, o evento ser&aacute; realizado entre os dias 21 e 24 de setembro, no Campus Campos Belos.</p>
+
+<p>Com o tema <em>&ldquo;Ensino, Pesquisa, Extens&atilde;o e Territ&oacute;rio: O Protagonismo Feminino na Transforma&ccedil;&atilde;o Social&rdquo;</em>, esta edi&ccedil;&atilde;o prop&otilde;e reflex&otilde;es sobre o papel das mulheres na produ&ccedil;&atilde;o do conhecimento, na educa&ccedil;&atilde;o, na ci&ecirc;ncia e nas transforma&ccedil;&otilde;es sociais constru&iacute;das nos diferentes territ&oacute;rios. A proposta &eacute; valorizar trajet&oacute;rias de mulheres pesquisadoras, m&atilde;es, educadoras, lideran&ccedil;as comunit&aacute;rias e guardi&atilde;s dos saberes tradicionais, reconhecendo a diversidade de experi&ecirc;ncias e conhecimentos que contribuem para a forma&ccedil;&atilde;o, a inova&ccedil;&atilde;o e o desenvolvimento social.</p>
+
+<p>Mais do que um espa&ccedil;o de apresenta&ccedil;&otilde;es e atividades acad&ecirc;micas, o Integra busca fortalecer conex&otilde;es entre ensino, pesquisa, extens&atilde;o, cultura e territ&oacute;rio, reconhecendo a diversidade de experi&ecirc;ncias e conhecimentos que constroem o IF Goiano e a Rede Federal.&nbsp;Com uma programa&ccedil;&atilde;o plural e colaborativa, o VIII Integra IF Goiano convida a comunidade acad&ecirc;mica a compartilhar ideias, viv&ecirc;ncias, produ&ccedil;&otilde;es cient&iacute;ficas, culturais e tecnol&oacute;gicas, reafirmando o papel da educa&ccedil;&atilde;o p&uacute;blica como espa&ccedil;o de transforma&ccedil;&atilde;o social, di&aacute;logo e pertencimento.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-8">
+                <ul class="main-content-event">
+                    
+                    
+                    <div class="row">
+                        <h4>INSCRIÇÕES:</h4>
+                        <ul class="form-group">
+                            <li class="list-group-item ">
+                            09/06/2026 a 23/09/2026
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="row">
+                        <div class="main-button-eventos">
+                            
+                        </div>
+                    </div>
+                </ul>
+            </div>
+
+            
+                <div class="col-lg-4" style="margin-bottom: 40px;">
+                    <div class="main-content-event p-0 m-0" style="vertical-align: bottom; background: black; color: white;">
+                        <div class="row mb-1" style="background: black;">
+                            
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Slide Bootstrap</title>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div id="carouselExampleIndicators" class="carousel slide carousel-fade noticia_squade" data-ride="carousel" data-interval="10000">
+    <ol class="carousel-indicators">
+        
+            <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+        
+            <li data-target="#carouselExampleIndicators" data-slide-to="1" ></li>
+        
+            <li data-target="#carouselExampleIndicators" data-slide-to="2" ></li>
+        
+            <li data-target="#carouselExampleIndicators" data-slide-to="3" ></li>
+        
+    </ol>
+    <div class="carousel-inner">
+        
+            <div class="carousel-item active">
+                <div class="image-container">
+                    <a href="noticia/383">
+
+                        <img src="/static/img/noticias/CMPCBE.webp"
+
+                             class="d-block" style="height: 400px; width: 100%;"
+                             alt="Encerramento do 8º Integra IF Goiano Celebra Destaques em Ensino, Pesquisa, Exte"/>
+                        <div class="black-overlay"></div>
+                    </a>
+                </div>
+                <div class="carousel-caption d-md-block text-start" style="z-index: 10;">
+                    <a class="color-unset" href="noticia/383">
+                        <div>
+                        <span class="badge bg-success py-1 mb-3">NOTICIA</span>
+                        </div>
+                        <h5>Encerramento do 8º Integra IF Goiano Celebra Destaques em Ensino, Pesquisa, Exte</h5>
+                        
+                    </a>
+                </div>
+            </div>
+        
+            <div class="carousel-item ">
+                <div class="image-container">
+                    <a href="noticia/382">
+
+                        <img src="/static/img/noticias/CMPCBE.webp"
+
+                             class="d-block" style="height: 400px; width: 100%;"
+                             alt="Cronograma das Apresentações Orais dos Trabalhos Vinculados ao CNPq"/>
+                        <div class="black-overlay"></div>
+                    </a>
+                </div>
+                <div class="carousel-caption d-md-block text-start" style="z-index: 10;">
+                    <a class="color-unset" href="noticia/382">
+                        <div>
+                        <span class="badge bg-success py-1 mb-3">NOTICIA</span>
+                        </div>
+                        <h5>Cronograma das Apresentações Orais dos Trabalhos Vinculados ao CNPq</h5>
+                        
+                    </a>
+                </div>
+            </div>
+        
+            <div class="carousel-item ">
+                <div class="image-container">
+                    <a href="noticia/381">
+
+                        <img src="/static/img/noticias/CMPCBE.webp"
+
+                             class="d-block" style="height: 400px; width: 100%;"
+                             alt="Anais do 8º Integra IF Goiano são publicados"/>
+                        <div class="black-overlay"></div>
+                    </a>
+                </div>
+                <div class="carousel-caption d-md-block text-start" style="z-index: 10;">
+                    <a class="color-unset" href="noticia/381">
+                        <div>
+                        <span class="badge bg-success py-1 mb-3">NOTICIA</span>
+                        </div>
+                        <h5>Anais do 8º Integra IF Goiano são publicados</h5>
+                        
+                            <h6 class="mb-3">Repositório Intitucional</h6>
+                        
+                    </a>
+                </div>
+            </div>
+        
+            <div class="carousel-item ">
+                <div class="image-container">
+                    <a href="noticia/380">
+
+                        <img src="/media/static/noticias/trabalhos_publicados.png"
+
+                             class="d-block" style="height: 400px; width: 100%;"
+                             alt="TRABALHOS APROVADOS NO 8º INTEGRA IF GOIANO"/>
+                        <div class="black-overlay"></div>
+                    </a>
+                </div>
+                <div class="carousel-caption d-md-block text-start" style="z-index: 10;">
+                    <a class="color-unset" href="noticia/380">
+                        <div>
+                        <span class="badge bg-secondary py-1 mb-3">COMUNICADO</span>
+                        </div>
+                        <h5>TRABALHOS APROVADOS NO 8º INTEGRA IF GOIANO</h5>
+                        
+                    </a>
+                </div>
+            </div>
+        
+    </div>
+</div>
+
+</body>
+</html>
+
+                        </div>
+                    </div>
+                    <a href="noticias" class="btn btn-outline-success mt-3">VER TODAS NOTÍCIAS</a>
+                </div>
+            
+
+            <div class="col-lg-12">
+                
+                    <div class="main-content-event">
+                        <div class="mb-4">
+                            <h4>PALESTRANTES:</h4>
+                            
+<div class="row gx-3" id="palestrantes-container">
+    
+        <div class="col-12 col-lg-3 gy-3 palestrante-item" id="Palestrante1">
+            <a data-target="#modal1" data-toggle="modal" id="MainNavHelp"
+               href="#modal1">
+                <div class="card">
+                    <div style="width: 100%; height: 75px; background-color: #dfdfdf; border-radius: 0.1rem 0.1rem 0 0;"></div>
+                    <div class="card-body text-center">
+                        <img src="/media/static/palestrantes/Bia_YVs6RP1.png" alt="Palestrante"
+                             class="img-fluid img-thumbnail rounded-circle img-palestrante border-0 mb-3">
+                        <p class="card-text" style="color: black;">Ma. Bia Kalunga</p>
+                    </div>
+                </div>
+            </a>
+        </div>
+
+        <div class="modal fade" id="modal1">
+            <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <div claas="modal-title">
+                            <h4>Bia Kalunga</h4>
+                            <br>
+                            <h6>Administradora do Museu Iaiá Procópia, guardiã dos saberes e fazeres Kalunga</h6>
+                        </div>
+                        <button type="button" class="btn-close" data-dismiss="modal" aria-label="Close">
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        
+                            
+                                <p>A professora Lourdes Fernandes de Souza, conhecida como Bia Kalunga, será uma das palestrantes do Painel 1 – Ciência no Território: Saberes, Identidade e Protagonismo Feminino.
+Lourdes Fernandes de Souza é uma educadora, escritora, poeta e liderança quilombola do Sítio Histórico e Patrimônio Cultural Kalunga, em Monte Alegre de Goiás. Membro da Academia de Letras e Artes do Nordeste Goiano (ALANEG) desde 2017, atua na valorização da cultura, da memória e dos saberes tradicionais do povo Kalunga.
+Possui formação acadêmica diversificada, incluindo licenciaturas em Educação do Campo e Pedagogia, especializações em Língua Portuguesa, Educação do Campo, Educação Infantil e Psicopedagogia, além de mestrado em Psicossociologia de Comunidades e Ecologia Social pela UFRJ. Atualmente é doutoranda em Linguística na Universidade de Brasília (UnB).
+Professora da rede estadual desde 2007, desenvolveu sua carreira nas escolas quilombolas Kalunga, atuando no ensino fundamental e médio. Entre 2021 e 2025 exerceu a gestão do Colégio Estadual Quilombola Kalunga Salustriano Pereira das Virgens.
+Destaca-se também por sua atuação comunitária, tendo sido vice-presidente da Associação de Mulheres do Quilombo Kalunga de Monte Alegre de Goiás e integrante da Associação Quilombo Kalunga. É administradora do Museu Iaiá Procópia, guardiã dos saberes e fazeres Kalunga, e autora de obras voltadas à preservação da memória quilombola, entre elas &quot;Aprender e Cuidar Kalunga em Versos&quot; e &quot;Iaiá Procópia: Memória e Resistência Kalunga&quot;, escrita em parceria com Iaiá Procópia.
+Ao longo de sua trajetória, participou de diversas formações e projetos educacionais, com destaque para a coordenação local do Programa PARFOR Equidade no curso de Licenciatura em Educação do Campo e Ciências Humanas, consolidando sua contribuição para a educação, a cultura e o fortalecimento da identidade quilombola Kalunga.</p>
+                            
+                            
+                                <p>bia_Kii@hotmail.com</p>
+                            
+                            
+                                <p><a href="https://lattes.cnpq.br/6370987539652345">https://lattes.cnpq.br/6370987539652345</a></p>
+                            
+                        
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="main-button mx-auto" data-dismiss="modal">Fechar
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+        <div class="col-12 col-lg-3 gy-3 palestrante-item" id="Palestrante2">
+            <a data-target="#modal2" data-toggle="modal" id="MainNavHelp"
+               href="#modal2">
+                <div class="card">
+                    <div style="width: 100%; height: 75px; background-color: #dfdfdf; border-radius: 0.1rem 0.1rem 0 0;"></div>
+                    <div class="card-body text-center">
+                        <img src="/media/static/palestrantes/Celuta.png" alt="Palestrante"
+                             class="img-fluid img-thumbnail rounded-circle img-palestrante border-0 mb-3">
+                        <p class="card-text" style="color: black;">Ma. Celuta Moreira</p>
+                    </div>
+                </div>
+            </a>
+        </div>
+
+        <div class="modal fade" id="modal2">
+            <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <div claas="modal-title">
+                            <h4>Celuta Santos Rosa Moreira</h4>
+                            <br>
+                            <h6>Diretora das Escolas Quilombolas</h6>
+                        </div>
+                        <button type="button" class="btn-close" data-dismiss="modal" aria-label="Close">
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        
+                            
+                                <p>A professora Celuta Santos Rosa Moreira, nascida na Comunidade Calunga, Fazenda Tinguizal, será uma das palestrantes do Painel 1 – Ciência no Território: Saberes, Identidade e Protagonismo Feminino. 
+Celuta Santos Rosa Moreira é graduada em Licenciatura em Educação do Campo pela Universidade de Brasília – FUP de Planaltina. Mestra em Sustentabilidade Juntos a Povos e Territórios Tradicionais  pela Universidade de Brasília, Campus Darcy Ribeiro. Atuo na educação desde os 19 anos, apaixonada pela educação. Atualmente exerce o cargo de Diretora das Escolas Quilombolas/ Campo do Município de Monte Alegre de Goiás.</p>
+                            
+                            
+                                <p>celutasantosledoc28@gmail.com</p>
+                            
+                            
+                        
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="main-button mx-auto" data-dismiss="modal">Fechar
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+        <div class="col-12 col-lg-3 gy-3 palestrante-item" id="Palestrante3">
+            <a data-target="#modal3" data-toggle="modal" id="MainNavHelp"
+               href="#modal3">
+                <div class="card">
+                    <div style="width: 100%; height: 75px; background-color: #dfdfdf; border-radius: 0.1rem 0.1rem 0 0;"></div>
+                    <div class="card-body text-center">
+                        <img src="/media/static/palestrantes/foto_Daniela.png" alt="Palestrante"
+                             class="img-fluid img-thumbnail rounded-circle img-palestrante border-0 mb-3">
+                        <p class="card-text" style="color: black;">Dra. Daniela Silva</p>
+                    </div>
+                </div>
+            </a>
+        </div>
+
+        <div class="modal fade" id="modal3">
+            <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <div claas="modal-title">
+                            <h4>Daniela de Melo e Silva</h4>
+                            <br>
+                            <h6>Coordenadora do Programa de Pós-graduação em Ciências Ambientais da Universidade Federal de Goiás</h6>
+                        </div>
+                        <button type="button" class="btn-close" data-dismiss="modal" aria-label="Close">
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        
+                            
+                                <p>A professora Daniela de Melo e Silva será uma das palestrantes do Painel 2 – Mulheres na Ciência: Produtividade, Liderança e Transformação de Espaços. Daniela de Melo e Silva possui graduação em Biomedicina, pela PUCGO (1997), mestrado em Genética pela Universidade Federal de Goiás (2000) e doutorado em Biologia Animal, pela Universidade de Brasília (2006). Atualmente é professora associada da UFG, bolsista de produtividade nível 1 C, membro do Comitê de Assessoramento da área de Ciências Ambientais, do CNPq e coordenadora do Programa de Pós-Graduação em Ciências Ambientais, da UFG. Tem experiência na área de mutagênese ambiental, principalmente nos seguintes temas: avaliação do impacto de agrotóxicos na saúde humana e animal; ensaios de mutagenicidade e genotoxicidade, risco associado à exposição a diversos estressores ambientais e impactos em organismos não alvo.</p>
+                            
+                            
+                                <p>danielamelosilva@ufg.br</p>
+                            
+                            
+                                <p><a href="http://lattes.cnpq.br/9895211901348365">http://lattes.cnpq.br/9895211901348365</a></p>
+                            
+                        
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="main-button mx-auto" data-dismiss="modal">Fechar
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+        <div class="col-12 col-lg-3 gy-3 palestrante-item" id="Palestrante4">
+            <a data-target="#modal4" data-toggle="modal" id="MainNavHelp"
+               href="#modal4">
+                <div class="card">
+                    <div style="width: 100%; height: 75px; background-color: #dfdfdf; border-radius: 0.1rem 0.1rem 0 0;"></div>
+                    <div class="card-body text-center">
+                        <img src="/media/static/palestrantes/Dona_Fiota.png" alt="Palestrante"
+                             class="img-fluid img-thumbnail rounded-circle img-palestrante border-0 mb-3">
+                        <p class="card-text" style="color: black;"> Dona Fiota</p>
+                    </div>
+                </div>
+            </a>
+        </div>
+
+        <div class="modal fade" id="modal4">
+            <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <div claas="modal-title">
+                            <h4>Dona Fiota</h4>
+                            <br>
+                            <h6>Cientista dos saberes tradicionais</h6>
+                        </div>
+                        <button type="button" class="btn-close" data-dismiss="modal" aria-label="Close">
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        
+                            
+                                <p>Dona Fiota (Deuzami Francisco da Conceição) será uma das palestrantes do Painel 1 – Ciência no Território: Saberes, Identidade e Protagonismo Feminino.
+Dona Fiota é liderança cultural e guardiã dos saberes tradicionais da comunidade quilombola Kalunga do Vão de Almas, no Nordeste Goiano. Reconhecida pela preservação da oralidade, dos cantos tradicionais e das expressões culturais Kalunga, sua trajetória está vinculada à valorização da identidade quilombola, da ancestralidade afro-brasileira e dos conhecimentos transmitidos entre gerações no território Kalunga, patrimônio histórico e cultural do Cerrado brasileiro</p>
+                            
+                            
+                                <p>francielle.rego@ifgoiano.edu.br</p>
+                            
+                            
+                        
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="main-button mx-auto" data-dismiss="modal">Fechar
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+        <div class="col-12 col-lg-3 gy-3 palestrante-item" id="Palestrante5">
+            <a data-target="#modal5" data-toggle="modal" id="MainNavHelp"
+               href="#modal5">
+                <div class="card">
+                    <div style="width: 100%; height: 75px; background-color: #dfdfdf; border-radius: 0.1rem 0.1rem 0 0;"></div>
+                    <div class="card-body text-center">
+                        <img src="/media/static/palestrantes/Flavia_Funape.png" alt="Palestrante"
+                             class="img-fluid img-thumbnail rounded-circle img-palestrante border-0 mb-3">
+                        <p class="card-text" style="color: black;">Dra. Flávia Oliveira</p>
+                    </div>
+                </div>
+            </a>
+        </div>
+
+        <div class="modal fade" id="modal5">
+            <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <div claas="modal-title">
+                            <h4>Flávia Aparecida de Oliveira</h4>
+                            <br>
+                            <h6>Professora da UFG, atuando como Diretora Executiva da Fundação de Apoio à Pesquisa (FUNAPE/UFG)</h6>
+                        </div>
+                        <button type="button" class="btn-close" data-dismiss="modal" aria-label="Close">
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        
+                            
+                                <p>A professora Flávia Aparecida de Oliveira será uma das palestrantes do Painel 2 – Mulheres na Ciência: Produtividade, Liderança e Transformação de Espaços.
+Flávia Aparecida de Oliveira é graduada em Enfermagem pela Universidade Federal do Triângulo Mineiro (UFTM) em 2000. Concluiu o Mestrado e Doutorado no Programa de Pós-graduação em Patologia na UFTM em 2003 e 2005, respectivamente. Professora da Universidade Federal de Goiás, Lotada no Setor de Patologia do Departamento de Biociências e Tecnologia (DEBIOTEC) do Instituto de Patologia Tropical e Saúde Pública (IPTSP), iniciando a carreira docente em 2004. Foi vice-diretora na Gestão 2010 a 2013, e Diretora do IPTSP/UFG na Gestão 2014 a 2017 e 2022 a 2025. Atuou como Pró-Reitora de Graduação da UFG, no ano de 2018, durante Gestão do Reitorado de 2018 a 2021. Presidiu a Comissão de Reestruturação Curricular dos Cursos de Graduação da UFG de 2019 a 2021, sendo Assessora Especial da Pró-Reitoria de Graduação da UFG. Atualmente, Professora Classe Associado IV, atuando como Diretora Executiva da Fundação de Apoio à Pesquisa (FUNAPE/UFG).</p>
+                            
+                            
+                                <p>flavia@funape.org.br</p>
+                            
+                            
+                                <p><a href="http://lattes.cnpq.br/8486967126710980">http://lattes.cnpq.br/8486967126710980</a></p>
+                            
+                        
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="main-button mx-auto" data-dismiss="modal">Fechar
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+        <div class="col-12 col-lg-3 gy-3 palestrante-item" id="Palestrante6">
+            <a data-target="#modal6" data-toggle="modal" id="MainNavHelp"
+               href="#modal6">
+                <div class="card">
+                    <div style="width: 100%; height: 75px; background-color: #dfdfdf; border-radius: 0.1rem 0.1rem 0 0;"></div>
+                    <div class="card-body text-center">
+                        <img src="/media/static/palestrantes/Maria_Otavia.png" alt="Palestrante"
+                             class="img-fluid img-thumbnail rounded-circle img-palestrante border-0 mb-3">
+                        <p class="card-text" style="color: black;">Ma. Maria Loureiro</p>
+                    </div>
+                </div>
+            </a>
+        </div>
+
+        <div class="modal fade" id="modal6">
+            <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <div claas="modal-title">
+                            <h4>Maria Otavia Battaglin Loureiro</h4>
+                            <br>
+                            <h6>Professora efetiva do Instituto Federal Goiano- Campus Campos Belos (GO)</h6>
+                        </div>
+                        <button type="button" class="btn-close" data-dismiss="modal" aria-label="Close">
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        
+                            
+                                <p>A professora Maria Otavia Battaglin Loureiro será uma das palestrantes do Painel 1 – Ciência no Território: Saberes, Identidade e Protagonismo Feminino. Maria Otavia Battaglin Loureiro é Bacharela e Licenciada em Ciências Sociais pela Universidade Federal do Paraná (2013); Mestre pelo Programa de Pós Graduação de Ciências Sociais em Desenvolvimento, Agricultura e Sociedade - CPDA - da Universidade Federal Rural do Rio de Janeiro (2016). Atua como docente EBTT e integra o quadro do IF Goiano campus Campos Belos. Atualmente esta como presidente do Núcleo de Estudos Afro-brasileiros e Indígenas (NEABI) campus Campos Belos e vice presidente do SISNEABI do IFGoiano. É membro do Grupo de Pesquisa Ciência, Tecnologia e Educação com linha de pesquisa relacionada a Educação, Estado e Sociedade. Bem como do Grupo de Pesquisa em Humanidades Rurais cujas linhas de pesquisa compreendem a temática de Sociabilidades e Representações do Rural, Educação, Cultura e Movimentos Sociais no Campo.</p>
+                            
+                            
+                                <p>maria.loureiro@ifgoiano.edu.br</p>
+                            
+                            
+                                <p><a href="http://lattes.cnpq.br/4998963792607571">http://lattes.cnpq.br/4998963792607571</a></p>
+                            
+                        
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="main-button mx-auto" data-dismiss="modal">Fechar
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+        <div class="col-12 col-lg-3 gy-3 palestrante-item" id="Palestrante7">
+            <a data-target="#modal7" data-toggle="modal" id="MainNavHelp"
+               href="#modal7">
+                <div class="card">
+                    <div style="width: 100%; height: 75px; background-color: #dfdfdf; border-radius: 0.1rem 0.1rem 0 0;"></div>
+                    <div class="card-body text-center">
+                        <img src="/media/static/palestrantes/Foto_Marta_Monteiro.png" alt="Palestrante"
+                             class="img-fluid img-thumbnail rounded-circle img-palestrante border-0 mb-3">
+                        <p class="card-text" style="color: black;">Dra. Marta Santos</p>
+                    </div>
+                </div>
+            </a>
+        </div>
+
+        <div class="modal fade" id="modal7">
+            <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <div claas="modal-title">
+                            <h4>Marta Sofia Soares Craveiro Alves Monteiro dos Santos</h4>
+                            <br>
+                            <h6>Pesquisadora Estrangeira da Universidade de Aveiro, Portugal.</h6>
+                        </div>
+                        <button type="button" class="btn-close" data-dismiss="modal" aria-label="Close">
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        
+                            
+                                <p>A professora Marta Sofia Soares Craveiro Alves Monteiro Santos será uma das palestrantes do Painel 2 – Mulheres na Ciência: Produtividade, Liderança e Transformação de Espaços.
+Marta Sofia Soares Craveiro Alves Monteiro Santos é uma pesquisadora portuguesa vinculada à Universidade de Aveiro e ao CESAM (Centro de Estudos do Ambiente e do Mar), com atuação nas áreas de ecotoxicologia e toxicologia ambiental. Sua pesquisa concentra-se nos impactos de contaminantes emergentes e substâncias químicas sobre ecossistemas aquáticos e organismos vivos, especialmente peixes e anfíbios.
+
+Possui formação em Biologia pela Universidade de Aveiro, onde também concluiu mestrado e doutorado. Participa de projetos científicos internacionais relacionados à avaliação de riscos ambientais, poluição e conservação ecológica, destacando-se pela contribuição aos estudos sobre saúde ambiental e impactos da contaminação química nos ecossistemas.
+
+Conheça mais sobre Marta Monteiro: https://www.cesam-la.pt/en/martamonteiro/</p>
+                            
+                            
+                                <p>mmonteiro@ua.pt</p>
+                            
+                            
+                                <p><a href="https://www.cienciavitae.pt/portal/en/3C1F-7F73-F0E6">https://www.cienciavitae.pt/portal/en/3C1F-7F73-F0E6</a></p>
+                            
+                        
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="main-button mx-auto" data-dismiss="modal">Fechar
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+        <div class="col-12 col-lg-3 gy-3 palestrante-item" id="Palestrante8">
+            <a data-target="#modal8" data-toggle="modal" id="MainNavHelp"
+               href="#modal8">
+                <div class="card">
+                    <div style="width: 100%; height: 75px; background-color: #dfdfdf; border-radius: 0.1rem 0.1rem 0 0;"></div>
+                    <div class="card-body text-center">
+                        <img src="/media/static/palestrantes/Paula_Karini.png" alt="Palestrante"
+                             class="img-fluid img-thumbnail rounded-circle img-palestrante border-0 mb-3">
+                        <p class="card-text" style="color: black;">Dra. Paula Amorim</p>
+                    </div>
+                </div>
+            </a>
+        </div>
+
+        <div class="modal fade" id="modal8">
+            <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <div claas="modal-title">
+                            <h4>Paula Karini Dias Ferreira Amorim</h4>
+                            <br>
+                            <h6>Magnífica Reitora do Instituto Federal do Tocantins</h6>
+                        </div>
+                        <button type="button" class="btn-close" data-dismiss="modal" aria-label="Close">
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        
+                            
+                                <p>A professora Paula Karini Dias Ferreira Amorim será uma as palestrantes do Painel 2 – Mulheres na Ciência: Produtividade, Liderança e Transformação de Espaços.
+Paula Karini Dias Ferreira Amorim é Reitora do Instituto Federal de Educação, Ciência e Tecnologia do Tocantins. Docente na área de Gestão e Negócios, ministrando disciplinas de empreendedorismo, tecnologia da informação e comunicação e planejamento estratégico. Pró-reitora de Pesquisa, Pós-graduação e Inovação desde 2018. Foi Pró-reitora de Extensão na mesma instituição nos anos de 2016 e 2018. Doutora em Comunicação e Cultura Contemporâneas pela Universidade Federal da Bahia, mestre em Gestão do Conhecimento e da Tecnologia da Informação e da Comunicação pela Universidade Católica de Brasília e graduada em Administração pelo Centro Universitário Luterano de Palmas. Pesquisadora associada do INCT-DD (Instituto Nacional de Ciência e Tecnologia em Democracia Digital) e professora do curso de Mestrado Profissional em Administração Pública (PROFIAP/UFT).</p>
+                            
+                            
+                                <p>paulakarini@ifto.edu.br</p>
+                            
+                            
+                                <p><a href="http://lattes.cnpq.br/3060561160947107">http://lattes.cnpq.br/3060561160947107</a></p>
+                            
+                        
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="main-button mx-auto" data-dismiss="modal">Fechar
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+        <div class="col-12 col-lg-3 gy-3 palestrante-item" id="Palestrante9">
+            <a data-target="#modal9" data-toggle="modal" id="MainNavHelp"
+               href="#modal9">
+                <div class="card">
+                    <div style="width: 100%; height: 75px; background-color: #dfdfdf; border-radius: 0.1rem 0.1rem 0 0;"></div>
+                    <div class="card-body text-center">
+                        <img src="/media/static/palestrantes/Suzana_Maria.png" alt="Palestrante"
+                             class="img-fluid img-thumbnail rounded-circle img-palestrante border-0 mb-3">
+                        <p class="card-text" style="color: black;">Dra. Suzana Marcionilio</p>
+                    </div>
+                </div>
+            </a>
+        </div>
+
+        <div class="modal fade" id="modal9">
+            <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <div claas="modal-title">
+                            <h4>Suzana Maria Loures de Oliveira Marcionilio</h4>
+                            <br>
+                            <h6>Professora, Pesquisadora, Diretora de Pós-graduação, Pesquisa e Inovação do IF Goiano - Campus Rio Verde e Bolsista produtividade em Desenvolvimento Tecnológico e Extensão Inovadora DT 2 CNPq.</h6>
+                        </div>
+                        <button type="button" class="btn-close" data-dismiss="modal" aria-label="Close">
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        
+                            
+                                <p>A professora Suzana Maria Loures de Oliveira Marcionilio será uma das palestrantes do Painel 2 – Mulheres na Ciência: Produtividade, Liderança e Transformação de Espaços.
+Suzana Maria Loures de Oliveira Marcionilio é Bolsista Produtividade em Desenvolvimento Tecnológico e Extensão Inovadora - DT - 2 CNPq; Doutora em Tecnologias Química e Biológica pelo Instituto de Química (UNB) Professora do quadro efetivo do Instituto Federal Goiano- Campus Rio Verde (GO) (02/2019). Coordenou o Programa em Agroquímica IF Goiano Campus Rio Verde no período 2019 à 2024. Atual Diretora de Pós Graduação Pesquisa e Inovação do IF Goiano Campus Rio Verde. Caracterização de efluentes e tratamento de efluentes com uso de Processos Oxidativos Avançados; Recursos Hídricos; Qualidade de água;</p>
+                            
+                            
+                                <p>suzana.loures@ifgoiano.edu.br</p>
+                            
+                            
+                                <p><a href="http://lattes.cnpq.br/4714846336997997">http://lattes.cnpq.br/4714846336997997</a></p>
+                            
+                        
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="main-button mx-auto" data-dismiss="modal">Fechar
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+</div>
+
+<div class="d-flex justify-content-center mt-4">
+    <div id="pagination-container"></div>
+</div>
+
+
+<script>
+    $(document).ready(function () {
+        var items = $(".palestrante-item"),
+
+            itemsPerPage = 12,
+            currentPage = 1;
+
+        function showPage(page) {
+            items.hide().slice((page - 1) * itemsPerPage, page * itemsPerPage).show();
+        }
+
+        showPage(currentPage);
+
+        function updatePagination() {
+            $("#pagination-container").empty();
+            var totalPages = Math.ceil(items.length / itemsPerPage),
+                maxButtons = 6,
+                startPage,
+                endPage;
+
+            if (totalPages <= maxButtons) {
+                startPage = 1;
+                endPage = totalPages;
+            } else {
+                if (currentPage <= Math.ceil(maxButtons / 2)) {
+                    startPage = 1;
+                    endPage = maxButtons;
+                } else if (currentPage + Math.floor(maxButtons / 2) >= totalPages) {
+                    startPage = totalPages - maxButtons + 1;
+                    endPage = totalPages;
+                } else {
+                    startPage = currentPage - Math.floor(maxButtons / 2);
+                    endPage = currentPage + Math.floor(maxButtons / 2);
+                }
+            }
+
+            if (currentPage > 1) {
+                $("<button>")
+                    .text("<")
+                    .addClass("btn btn-outline-success m-1 px-3 prev-btn br-2")
+                    .on("click", function () {
+                        currentPage--;
+                        showPage(currentPage);
+                        updatePagination();
+                    })
+                    .prependTo("#pagination-container");
+            }
+
+            if (endPage > 1) {
+                for (var i = startPage; i <= endPage; i++) {
+                    $("<button>")
+                        .text(i)
+                        .addClass("btn btn-outline-success m-1 px-3 page-btn br-2")
+                        .toggleClass("active", i === currentPage)
+                        .on("click", function () {
+                            currentPage = parseInt($(this).text());
+                            showPage(currentPage);
+                            updatePagination();
+                        })
+                        .appendTo("#pagination-container");
+                }
+            }
+
+            if (currentPage < totalPages) {
+                $("<button>")
+                    .text(">")
+                    .addClass("btn btn-outline-success m-1 px-3 br-2")
+                    .on("click", function () {
+                        currentPage++;
+                        showPage(currentPage);
+                        updatePagination();
+                    })
+                    .appendTo("#pagination-container");
+            }
+        }
+        updatePagination();
+    });
+</script>
+
+
+
+
+
+
+                        </div>
+                    </div>
+                
+
+                
+                    <div class="main-content-event">
+                        <div class="mb-4">
+                            
+
+<link rel="stylesheet" href="/static/assets/css/nav-timeline.css">
+
+<script src="/static/assets/js/eye-icon.js"></script>
+
+<h4>PROGRAMAÇÃO:</h4>
+
+<div class="row" id="programacao">
+    <div class="col-md-12">
+        <nav>
+            <div class="nav nav-tabs nav-fill" id="nav-tab" role="tablist">
+                
+                
+                
+                    <a class="nav-item nav-link  active"
+                        id="nav-21SET26-tab" data-toggle="tab"
+                        href="#nav-21SET26" role="tab"
+                        aria-controls="nav-21SET26"
+                        aria-selected="true">21/SET</a>
+                
+                    <a class="nav-item nav-link  "
+                        id="nav-22SET26-tab" data-toggle="tab"
+                        href="#nav-22SET26" role="tab"
+                        aria-controls="nav-22SET26"
+                        aria-selected="true">22/SET</a>
+                
+                    <a class="nav-item nav-link  "
+                        id="nav-23SET26-tab" data-toggle="tab"
+                        href="#nav-23SET26" role="tab"
+                        aria-controls="nav-23SET26"
+                        aria-selected="true">23/SET</a>
+                
+                    <a class="nav-item nav-link  "
+                        id="nav-24SET26-tab" data-toggle="tab"
+                        href="#nav-24SET26" role="tab"
+                        aria-controls="nav-24SET26"
+                        aria-selected="true">24/SET</a>
+                
+            </div>
+        </nav>
+        <div class="tab-content py-3 px-0 px-sm-0" id="nav-tabContent">
+            
+            
+                <div class="tab-pane fade show active"
+                        id="nav-21SET26" role="tabpanel"
+                        aria-labelledby="nav-21SET26-tab">
+                    
+                        
+                        <div class="card my-1" id="atividade">
+                            <div class="card-body pb-2">
+                                <div class="row">
+                                    <div class="col-8 d-flex">
+                                        <h5 class="card-title">16:00 </h5>
+                                    </div>
+                                    <div class="col-4 d-flex justify-content-end">
+                                        <a class="btn" data-toggle="collapse" title="Mais detalhes"
+                                            href="#collapse5571" role="button" aria-expanded="false"
+                                            aria-controls="collapse5571">
+                                            <i class="fa-regular fa-eye"></i>
+                                        </a>
+                                    </div>
+                                </div>
+
+                                <h6 class="card-subtitle mb-2 ">ACAMPA IF</h6>
+                                <div class="collapse" id="collapse5571">
+                                    <p class="card-text">A partir das 17h, o Instituto Federal Goiano iniciará o recebimento das delegações para o tradicional Acampa IF, atividade que nasceu no Campus Campos Belos e, ao longo dos anos, tornou-se um importante símbolo de integração e convivência estudantil.<br><br>Reconhecido pela comunidade acadêmica local como um espaço de acolhimento, troca de experiências e fortalecimento dos vínculos entre estudantes, o Acampa IF ganha agora uma nova dimensão: em 2026, o projeto passa a ser realizado em nível estadual, reunindo delegações de todos os campi do IF Goiano.<br><br>Os estudantes serão recebidos em um ambiente preparado para promover integração, convivência e interação cultural, fortalecendo o sentimento de pertencimento institucional e valorizando a diversidade dos diferentes territórios que compõem o IF Goiano.<br><br>Mais do que um espaço de hospedagem e socialização, o Acampa IF representa um momento de construção coletiva, compartilhamento de vivências e celebração da identidade estudantil, consolidando-se como uma das experiências mais marcantes do Integra IF 2026.</p>
+                                    
+                                    <p class="card-text"><em>Local: Campus Campos Belos</em></p>
+                                </div>
+
+                            </div>
+                        </div>
+                    
+
+                </div>
+            
+                <div class="tab-pane fade show "
+                        id="nav-22SET26" role="tabpanel"
+                        aria-labelledby="nav-22SET26-tab">
+                    
+                        
+                        <div class="card my-1" id="atividade">
+                            <div class="card-body pb-2">
+                                <div class="row">
+                                    <div class="col-8 d-flex">
+                                        <h5 class="card-title">07:00  às 09:30</h5>
+                                    </div>
+                                    <div class="col-4 d-flex justify-content-end">
+                                        <a class="btn" data-toggle="collapse" title="Mais detalhes"
+                                            href="#collapse5572" role="button" aria-expanded="false"
+                                            aria-controls="collapse5572">
+                                            <i class="fa-regular fa-eye"></i>
+                                        </a>
+                                    </div>
+                                </div>
+
+                                <h6 class="card-subtitle mb-2 ">Abertura Oficial</h6>
+                                <div class="collapse" id="collapse5572">
+                                    <p class="card-text">Cerimônia Oficial de Abertura do Integra IF Goiano 2026<br><br>A cerimônia institucional de abertura do Integra IF Goiano 2026 marcará o início oficial de um dos maiores encontros acadêmicos, científicos, culturais e estudantis do Instituto Federal Goiano (IF Goiano), reunindo autoridades, gestores, estudantes, servidores, pesquisadores, parceiros institucionais e representantes da comunidade externa.<br><br>Realizado entre os dias 21 e 24 de setembro, no Campus Campos Belos, o VIII Integra IF Goiano será palco de um grande encontro voltado à ciência, à cultura, à inovação e ao fortalecimento da identidade da Rede Federal, promovendo a integração entre todos os campi da instituição.<br><br>Com o tema “Ensino, Pesquisa, Extensão e Território: O Protagonismo Feminino na Transformação Social”, esta edição propõe reflexões sobre o papel das mulheres na produção do conhecimento, na educação, na ciência e nas transformações sociais construídas nos diferentes territórios. O evento valoriza trajetórias de pesquisadoras, educadoras, mães, lideranças comunitárias e guardiãs dos saberes tradicionais, reconhecendo a diversidade de experiências e conhecimentos que contribuem para a formação humana, a inovação e o desenvolvimento social.<br><br>A solenidade de abertura simboliza o compromisso do IF Goiano com a educação pública, gratuita, inclusiva e de qualidade, reafirmando o papel da instituição na promoção da ciência, da pesquisa, da extensão e da transformação social por meio do conhecimento.<br><br>Mais do que um espaço de apresentações acadêmicas, o Integra IF Goiano busca fortalecer conexões entre ensino, pesquisa, extensão, cultura e território, promovendo diálogo, pertencimento e construção coletiva. Com uma programação plural, colaborativa e interdisciplinar, o evento convida toda a comunidade acadêmica a compartilhar vivências, produções científicas, manifestações culturais e iniciativas inovadoras que expressam a diversidade e a potência da Rede Federal.<br><br>Destaques da cerimônia:<br><br>* Recepção oficial das delegações de todos os campi do IF Goiano;<br>* Presença de autoridades institucionais e representantes parceiros;<br>* Abertura oficial das atividades científicas, culturais, esportivas e acadêmicas;<br>* Celebração da ciência, da inovação, da pesquisa e da extensão;<br>* Valorização da educação pública como instrumento de transformação social;<br>* Fortalecimento da identidade institucional e do sentimento de pertencimento;<br>* Reconhecimento da diversidade cultural, social e territorial da comunidade acadêmica;<br>* Homenagem ao protagonismo feminino na construção do conhecimento e da transformação social.</p>
+                                    
+                                    <p class="card-text"><em>Local: Pavilhão Principal - Iaiá Procópia</em></p>
+                                </div>
+
+                            </div>
+                        </div>
+                    
+                        
+                        <div class="card my-1" id="atividade">
+                            <div class="card-body pb-2">
+                                <div class="row">
+                                    <div class="col-8 d-flex">
+                                        <h5 class="card-title">09:30  às 10:30</h5>
+                                    </div>
+                                    <div class="col-4 d-flex justify-content-end">
+                                        <a class="btn" data-toggle="collapse" title="Mais detalhes"
+                                            href="#collapse5573" role="button" aria-expanded="false"
+                                            aria-controls="collapse5573">
+                                            <i class="fa-regular fa-eye"></i>
+                                        </a>
+                                    </div>
+                                </div>
+
+                                <h6 class="card-subtitle mb-2 ">Painel 1 – Ciência no Território: Saberes, Identidade e Protagonismo Feminino</h6>
+                                <div class="collapse" id="collapse5573">
+                                    <p class="card-text">* Mediação: Professora Maria Otávia, Presidente do Núcleo de Estudos Afro-Brasileiros e Indígenas (NEABI);<br>* Dona Fiota (Deuzami Francisco da Conceição), liderança cultural e guardiã dos saberes tradicionais da comunidade quilombola Kalunga do Vão de Almas;<br>* Lourdes Fernandes de Souza, Bia Kalunga, doutoranda em Linguística na Universidade de Brasília (UnB);<br>* Celuta Santos Rosa Moreira, nascida na Comunidade Calunga, Fazenda Tinguizal. Mestra em Sustentabilidade Juntos a Povos e Territórios Tradicionais<br><br>A proposta é discutir a construção da ciência a partir do território, os saberes tradicionais, a formação acadêmica e o protagonismo das mulheres pretas na produção e difusão do conhecimento.<br><br>Além disso, existe a intenção de convidarmos uma liderança indígena feminina para compor o painel. A Professora Maria Otávia receberá amanhã lideranças indígenas no campus e realizará essa consulta quanto à possibilidade de participação. Por essa razão, esse nome ainda não constará na programação oficial neste momento.</p>
+                                    
+                                    <p class="card-text"><em>Local: Pavilhão Principal - Iaiá Procópia</em></p>
+                                </div>
+
+                            </div>
+                        </div>
+                    
+                        
+                        <div class="card my-1" id="atividade">
+                            <div class="card-body pb-2">
+                                <div class="row">
+                                    <div class="col-8 d-flex">
+                                        <h5 class="card-title">10:45  às 11:45</h5>
+                                    </div>
+                                    <div class="col-4 d-flex justify-content-end">
+                                        <a class="btn" data-toggle="collapse" title="Mais detalhes"
+                                            href="#collapse5692" role="button" aria-expanded="false"
+                                            aria-controls="collapse5692">
+                                            <i class="fa-regular fa-eye"></i>
+                                        </a>
+                                    </div>
+                                </div>
+
+                                <h6 class="card-subtitle mb-2 ">Painel 2 – Mulheres na Ciência: Produtividade, Liderança e Transformação de Espaços</h6>
+                                <div class="collapse" id="collapse5692">
+                                    <p class="card-text">* Mediação: Professora Paula Karini, Reitora do Instituto Federal do Tocantins (IFTO);<br>* Marta Monteiro (Universidade de Aveiro);<br>* Daniela Melo (UFG);<br>* Flávia Aparecida (FUNAPE);<br>* Suzana Marcionílio (IF Goiano – Campus Rio Verde).<br><br>Neste painel, a discussão estaria voltada aos desafios e estratégias relacionados à construção da carreira científica, à manutenção da produtividade acadêmica, à ocupação de espaços de liderança e à transformação dos ambientes institucionais pelas mulheres.</p>
+                                    
+                                    <p class="card-text"><em>Local: Pavilhão Principal - Iaiá Procópia</em></p>
+                                </div>
+
+                            </div>
+                        </div>
+                    
+                        
+                        <div class="card my-1" id="atividade">
+                            <div class="card-body pb-2">
+                                <div class="row">
+                                    <div class="col-8 d-flex">
+                                        <h5 class="card-title">13:30  às 17:30</h5>
+                                    </div>
+                                    <div class="col-4 d-flex justify-content-end">
+                                        <a class="btn" data-toggle="collapse" title="Mais detalhes"
+                                            href="#collapse5574" role="button" aria-expanded="false"
+                                            aria-controls="collapse5574">
+                                            <i class="fa-regular fa-eye"></i>
+                                        </a>
+                                    </div>
+                                </div>
+
+                                <h6 class="card-subtitle mb-2 ">Apresentações em Pôsters</h6>
+                                <div class="collapse" id="collapse5574">
+                                    <p class="card-text">A modalidade Apresentação em Pôster tem como objetivo promover a socialização e a divulgação de trabalhos, projetos, pesquisas e experiências desenvolvidos no âmbito do ensino, da pesquisa, da inovação e da extensão nos diferentes campi do IF Goiano.<br><br>Os pôsteres representarão ações acadêmicas, científicas, tecnológicas, culturais e extensionistas realizadas por estudantes e servidores, constituindo um espaço de compartilhamento de conhecimentos, troca de experiências e valorização das atividades institucionais.<br><br>Por meio dessa modalidade, busca-se fortalecer a integração entre ensino, pesquisa e extensão, estimular o protagonismo estudantil e ampliar a disseminação dos resultados e impactos das ações desenvolvidas pela comunidade acadêmica.</p>
+                                    
+                                    <p class="card-text"><em>Local: Hall de Entrada do Campus e Quadra Poliesportiva</em></p>
+                                </div>
+
+                            </div>
+                        </div>
+                    
+                        
+                        <div class="card my-1" id="atividade">
+                            <div class="card-body pb-2">
+                                <div class="row">
+                                    <div class="col-8 d-flex">
+                                        <h5 class="card-title">13:30  às 17:30</h5>
+                                    </div>
+                                    <div class="col-4 d-flex justify-content-end">
+                                        <a class="btn" data-toggle="collapse" title="Mais detalhes"
+                                            href="#collapse5575" role="button" aria-expanded="false"
+                                            aria-controls="collapse5575">
+                                            <i class="fa-regular fa-eye"></i>
+                                        </a>
+                                    </div>
+                                </div>
+
+                                <h6 class="card-subtitle mb-2 ">Apresentação Oral - Ideias que Integram</h6>
+                                <div class="collapse" id="collapse5575">
+                                    <p class="card-text">Sua experiência pode inspirar e transformar o IF Goiano!<br><br>O INTEGRA é um espaço de compartilhamento de experiências, práticas e iniciativas que fortalecem o ensino, a pesquisa, a extensão e a gestão institucional. Nesta edição, convidamos servidores, estudantes e colaboradores a participarem da nova categoria “Ideias que Integram”, criada para valorizar ações inovadoras que promovam a articulação entre diferentes áreas do conhecimento, setores institucionais e públicos envolvidos nas atividades do IF Goiano.<br><br>A proposta é simples: compartilhar iniciativas que deram certo e que possam servir de inspiração para outros campi e para toda a comunidade institucional.<br><br>Podem ser submetidas experiências desenvolvidas em diferentes áreas, como:<br><br>•	Ensino: projetos, metodologias e estratégias que integrem componentes curriculares, áreas do conhecimento, cursos ou níveis de ensino. Um exemplo desse tipo é o formato de desenvolvimento de Projetos Integradores nos cursos técnicos integrados ao ensino médio do Campus Campos Belos, que em três semanas específicas do ano promovem a atuação conjunta de professores e estudantes de diferentes áreas em desafios e atividades interdisciplinares, com alunos de todos os cursos técnicos juntos. <br>•	Extensão: ações que aproximem o IF Goiano da sociedade por meio da integração de diferentes cursos, instituições e profissionais. Um outro exemplo, nessa linha de extensão, é o Centro de Equoterapia, que reúne conhecimentos dos cursos de Zootecnia e Administração associados à saúde e gestão pública para oferecer atendimento à comunidade.<br>•	Pesquisa: iniciativas que articulem diferentes áreas do conhecimento na busca de soluções para problemas reais, promovendo inovação, desenvolvimento científico e impacto social. <br>•	Gestão e Administração Pública: protocolos, fluxogramas, sistemas, softwares, planilhas, procedimentos ou outras ferramentas, desenvolvidas por servidores (Professores, Técnicos Administrativos e terceirizados) ou alunos, que tornem os processos institucionais mais eficientes, transparentes e acessíveis, contribuindo para a melhoria contínua dos serviços prestados pela instituição. <br><br>Muitas vezes, as soluções mais transformadoras surgem da integração entre pessoas, setores e conhecimentos distintos. Compartilhar essas experiências é fundamental para fortalecer a inovação institucional, disseminar boas práticas e ampliar o impacto positivo das ações desenvolvidas no IF Goiano.<br><br>Participe! Sua experiência pode inspirar novas ações, fortalecer parcerias e contribuir para o desenvolvimento de toda a comunidade do IF Goiano.</p>
+                                    
+                                    <p class="card-text"><em>Local: Salas temáticas</em></p>
+                                </div>
+
+                            </div>
+                        </div>
+                    
+                        
+                        <div class="card my-1" id="atividade">
+                            <div class="card-body pb-2">
+                                <div class="row">
+                                    <div class="col-8 d-flex">
+                                        <h5 class="card-title">19:00  às 22:00</h5>
+                                    </div>
+                                    <div class="col-4 d-flex justify-content-end">
+                                        <a class="btn" data-toggle="collapse" title="Mais detalhes"
+                                            href="#collapse5576" role="button" aria-expanded="false"
+                                            aria-controls="collapse5576">
+                                            <i class="fa-regular fa-eye"></i>
+                                        </a>
+                                    </div>
+                                </div>
+
+                                <h6 class="card-subtitle mb-2 ">Festival Cultural do NAIF</h6>
+                                <div class="collapse" id="collapse5576">
+                                    <p class="card-text">O Núcleo de Arte e Cultura (NAIF) conduzirá uma grande celebração artística e cultural, promovendo música, dança, apresentações culturais e manifestações da diversidade dos territórios do IF Goiano.<br>Um momento de integração institucional por meio da arte, da cultura e da valorização dos talentos estudantis.</p>
+                                    
+                                    <p class="card-text"><em>Local: Pavilhão Principal - Iaiá Procópia</em></p>
+                                </div>
+
+                            </div>
+                        </div>
+                    
+
+                </div>
+            
+                <div class="tab-pane fade show "
+                        id="nav-23SET26" role="tabpanel"
+                        aria-labelledby="nav-23SET26-tab">
+                    
+                        
+                        <div class="card my-1" id="atividade">
+                            <div class="card-body pb-2">
+                                <div class="row">
+                                    <div class="col-8 d-flex">
+                                        <h5 class="card-title">07:00  às 17:00</h5>
+                                    </div>
+                                    <div class="col-4 d-flex justify-content-end">
+                                        <a class="btn" data-toggle="collapse" title="Mais detalhes"
+                                            href="#collapse5578" role="button" aria-expanded="false"
+                                            aria-controls="collapse5578">
+                                            <i class="fa-regular fa-eye"></i>
+                                        </a>
+                                    </div>
+                                </div>
+
+                                <h6 class="card-subtitle mb-2 ">Vitrine Tecnológica</h6>
+                                <div class="collapse" id="collapse5578">
+                                    <p class="card-text">O Futuro da Inovação Passa por Aqui!<br><br>A Vitrine Tecnológica é o palco principal da criatividade, da ciência e da transformação no IF Goiano, no Goiás e no Brasil!<br>Mais do que um espaço de exposição, este é o lugar onde as pesquisas acadêmicas ganham vida, conectando as soluções desenvolvidas em nossos laboratórios diretamente com a sociedade!<br>Se você é pesquisador, docente ou estudante e desenvolveu uma solução com impacto real, a sua grande oportunidade chegou!<br><br>O que estamos buscando?<br>Projetos que já saíram do papel e possuem aplicabilidade prática nas áreas:<br> Ensino Pesquisa e Extensão.<br>Tecnologias e Produtos: Soluções tangíveis e inovadoras de diversas áreas.<br>Softwares e Aplicativos: Sistemas, plataformas e simuladores funcionais.<br>Processos e Metodologias: Novos métodos validados que otimizam e transformam o cotidiano.<br><br>Esqueça os banners! <br>O diferencial é a Interatividade<br>Na Vitrine Tecnológica, o público quer experimentar. O espaço é dinâmico e imersivo, as propostas devem, obrigatoriamente, utilizar recursos práticos e visuais. <br>Abuse da criatividade!</p>
+                                    
+                                    <p class="card-text"><em>Local: Hall de Entrada do Campus e Pavilhão Iaiá Procópia</em></p>
+                                </div>
+
+                            </div>
+                        </div>
+                    
+                        
+                        <div class="card my-1" id="atividade">
+                            <div class="card-body pb-2">
+                                <div class="row">
+                                    <div class="col-8 d-flex">
+                                        <h5 class="card-title">07:00  às 17:00</h5>
+                                    </div>
+                                    <div class="col-4 d-flex justify-content-end">
+                                        <a class="btn" data-toggle="collapse" title="Mais detalhes"
+                                            href="#collapse5577" role="button" aria-expanded="false"
+                                            aria-controls="collapse5577">
+                                            <i class="fa-regular fa-eye"></i>
+                                        </a>
+                                    </div>
+                                </div>
+
+                                <h6 class="card-subtitle mb-2 ">Apresentação Oral - Bolsistas CNPq</h6>
+                                <div class="collapse" id="collapse5577">
+                                    <p class="card-text">A modalidade Apresentação Oral tem como finalidade promover a divulgação dos resultados de projetos de pesquisa e inovação tecnológica desenvolvidos com apoio do Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq), incentivando a socialização do conhecimento científico e a troca de experiências entre estudantes, pesquisadores e a comunidade acadêmica. A modalidade busca valorizar a iniciação científica e tecnológica, estimular o desenvolvimento acadêmico dos estudantes e fortalecer a cultura da pesquisa e da inovação no âmbito institucional.<br><br>Esta modalidade é destinada exclusivamente aos bolsistas vinculados a programas financiados pelo CNPq, conforme estabelecido nas normas do evento. Espera-se a apresentação de trabalhos que demonstrem os objetivos, a metodologia adotada, os resultados obtidos e as conclusões ou perspectivas decorrentes das atividades desenvolvidas durante a vigência da bolsa.<br><br>A participação ocorrerá por meio da submissão do resumo simples e posterior apresentação oral do trabalho, conforme cronograma e orientações disponibilizados pela comissão organizadora em breve. As apresentações serão realizadas presencialmente, em sessões organizadas por áreas temáticas, perante avaliadores designados pelo evento.</p>
+                                    
+                                    <p class="card-text"><em>Local: Salas temáticas</em></p>
+                                </div>
+
+                            </div>
+                        </div>
+                    
+                        
+                        <div class="card my-1" id="atividade">
+                            <div class="card-body pb-2">
+                                <div class="row">
+                                    <div class="col-8 d-flex">
+                                        <h5 class="card-title">19:00  às 22:00</h5>
+                                    </div>
+                                    <div class="col-4 d-flex justify-content-end">
+                                        <a class="btn" data-toggle="collapse" title="Mais detalhes"
+                                            href="#collapse5579" role="button" aria-expanded="false"
+                                            aria-controls="collapse5579">
+                                            <i class="fa-regular fa-eye"></i>
+                                        </a>
+                                    </div>
+                                </div>
+
+                                <h6 class="card-subtitle mb-2 ">Cerimônia de Encerramento e Premiação</h6>
+                                <div class="collapse" id="collapse5579">
+                                    <p class="card-text">Momento de celebração coletiva das experiências vividas durante o Integra IF Goiano 2026.<br>A noite contará com a premiação das diferentes modalidades do evento, reconhecendo trabalhos, iniciativas e experiências de destaque nas áreas de ensino, pesquisa, extensão, inovação, cultura e integração institucional.<br>Além do reconhecimento acadêmico e institucional, a cerimônia simbolizará o compromisso do IF Goiano com a valorização do protagonismo estudantil, científico e cultural.<br>Durante o encerramento ocorrerá também o tradicional repasse da bandeira institucional ao IF Goiano, próximo anfitrião do Integra IF Goiano.</p>
+                                    
+                                    <p class="card-text"><em>Local: Pavilhão Principal - Iaiá Procópia</em></p>
+                                </div>
+
+                            </div>
+                        </div>
+                    
+
+                </div>
+            
+                <div class="tab-pane fade show "
+                        id="nav-24SET26" role="tabpanel"
+                        aria-labelledby="nav-24SET26-tab">
+                    
+                        
+                        <div class="card my-1" id="atividade">
+                            <div class="card-body pb-2">
+                                <div class="row">
+                                    <div class="col-8 d-flex">
+                                        <h5 class="card-title">08:00  às 19:00</h5>
+                                    </div>
+                                    <div class="col-4 d-flex justify-content-end">
+                                        <a class="btn" data-toggle="collapse" title="Mais detalhes"
+                                            href="#collapse5645" role="button" aria-expanded="false"
+                                            aria-controls="collapse5645">
+                                            <i class="fa-regular fa-eye"></i>
+                                        </a>
+                                    </div>
+                                </div>
+
+                                <h6 class="card-subtitle mb-2 ">Expedição Viver o Território</h6>
+                                <div class="collapse" id="collapse5645">
+                                    <p class="card-text">A Expedição Viver o Território constitui uma atividade de imersão voltada à valorização das potencialidades naturais, culturais, sociais e produtivas do Nordeste Goiano, proporcionando aos participantes uma experiência para além dos espaços convencionais do evento. A proposta é oportunizar o contato direto com as paisagens, os saberes, as práticas produtivas e as iniciativas que expressam a identidade territorial da região.<br><br>Por meio de visitas guiadas e vivências em pontos de interesse do território, os participantes poderão conhecer belezas naturais, experiências de empreendedorismo, iniciativas de ensino, pesquisa e extensão, manifestações culturais e ações de desenvolvimento local sustentável, compreendendo como ciência, educação, inovação e tradição dialogam na construção de um território mais inclusivo e resiliente.<br><br>A atividade busca fortalecer o sentimento de pertencimento, ampliar a compreensão sobre os desafios e potencialidades regionais e promover o intercâmbio de conhecimentos entre comunidade acadêmica, visitantes e atores locais, evidenciando o protagonismo das pessoas e instituições que contribuem diariamente para o desenvolvimento do Nordeste Goiano.<br><br>Uma oportunidade para conhecer, vivenciar e se conectar com o território, transformando a experiência do evento em uma jornada de aprendizagem, inspiração e descoberta.</p>
+                                    
+                                    <p class="card-text"><em>Local: Locais diversos</em></p>
+                                </div>
+
+                            </div>
+                        </div>
+                    
+                        
+                        <div class="card my-1" id="atividade">
+                            <div class="card-body pb-2">
+                                <div class="row">
+                                    <div class="col-8 d-flex">
+                                        <h5 class="card-title">08:00  às 22:00</h5>
+                                    </div>
+                                    <div class="col-4 d-flex justify-content-end">
+                                        <a class="btn" data-toggle="collapse" title="Mais detalhes"
+                                            href="#collapse5580" role="button" aria-expanded="false"
+                                            aria-controls="collapse5580">
+                                            <i class="fa-regular fa-eye"></i>
+                                        </a>
+                                    </div>
+                                </div>
+
+                                <h6 class="card-subtitle mb-2 ">Retorno das Delegações</h6>
+                                <div class="collapse" id="collapse5580">
+                                    <p class="card-text">As delegações retornarão aos seus respectivos campi, encerrando uma experiência marcada pela integração, ciência, cultura, inovação e fortalecimento institucional.<br>O Integra IF Goiano 2026 deixará como legado novas conexões, experiências transformadoras, valorização da diversidade dos territórios e fortalecimento da educação pública, gratuita e de qualidade.</p>
+                                    
+                                    <p class="card-text"><em>Local: Campus Campos Belos</em></p>
+                                </div>
+
+                            </div>
+                        </div>
+                    
+
+                </div>
+             
+        </div><!-- end col-xs-12-->
+    </div><!-- end row -->
+</div>
+                        </div>
+                    </div>
+                
+                
+                    <div class="main-content-event">
+                        <div class="mb-4">
+                            
+
+<h4>ARQUIVOS:</h4>
+<div class="row">
+    <ul id="submissoes">
+        
+            <li class="list-group-item">
+                <a href="/media/arquivos/Ordem_de_apresenta%C3%A7%C3%A3o_-_Ideias_que_integram.pdf"><i class="fas fa-file mr-1"></i>Ordem de apresentação - Ideias que integram</a>
+                <div>
+                    <small>
+                        Publicado em 20 de Setembro de 2026 às 20:30
+                    </small>
+                </div>
+            </li>
+            
+            <li class="list-group-item">
+                <a href="/media/arquivos/CRONOGRAMA_APRESENTA%C3%87%C3%95ES_ORAIS_CNPq.pdf"><i class="fas fa-file mr-1"></i>CRONOGRAMA APRESENTAÇÕES ORAIS CNPq</a>
+                <div>
+                    <small>
+                        Publicado em 19 de Setembro de 2026 às 21:51
+                    </small>
+                </div>
+            </li>
+            
+            <li class="list-group-item">
+                <a href="/media/arquivos/Anais_8%C2%BA_Integra_IF_Goiano_.pdf"><i class="fas fa-file mr-1"></i>Anais 8º Integra IF Goiano - Campus Campos Belos</a>
+                <div>
+                    <small>
+                        Publicado em 18 de Setembro de 2026 às 14:37
+                    </small>
+                </div>
+            </li>
+            
+            <li class="list-group-item">
+                <a href="/media/arquivos/RELA%C3%87%C3%83O_DE_TRABALHOS_APROVADOS_DO_CAMPUS_URUTA%C3%8D.pdf"><i class="fas fa-file mr-1"></i>RELAÇÃO DE TRABALHOS APROVADOS DO CAMPUS URUTAÍ</a>
+                <div>
+                    <small>
+                        Publicado em 8 de Setembro de 2026 às 16:54
+                    </small>
+                </div>
+            </li>
+            
+            <li class="list-group-item">
+                <a href="/media/arquivos/RELA%C3%87%C3%83O_DE_TRABALHOS_APROVADOS_DO_CAMPUS_TRINDADE.pdf"><i class="fas fa-file mr-1"></i>RELAÇÃO DE TRABALHOS APROVADOS DO CAMPUS TRINDADE</a>
+                <div>
+                    <small>
+                        Publicado em 8 de Setembro de 2026 às 16:54
+                    </small>
+                </div>
+            </li>
+            
+            <li class="list-group-item">
+                <a href="/media/arquivos/RELA%C3%87%C3%83O_DE_TRABALHOS_APROVADOS_DO_CAMPUS_RIO_VERDE.pdf"><i class="fas fa-file mr-1"></i>RELAÇÃO DE TRABALHOS APROVADOS DO CAMPUS RIO VERDE</a>
+                <div>
+                    <small>
+                        Publicado em 8 de Setembro de 2026 às 16:54
+                    </small>
+                </div>
+            </li>
+            
+            <li class="list-group-item">
+                <a href="/media/arquivos/RELA%C3%87%C3%83O_DE_TRABALHOS_APROVADOS_DO_CAMPUS_POSSE.pdf"><i class="fas fa-file mr-1"></i>RELAÇÃO DE TRABALHOS APROVADOS DO CAMPUS POSSE</a>
+                <div>
+                    <small>
+                        Publicado em 8 de Setembro de 2026 às 16:54
+                    </small>
+                </div>
+            </li>
+            
+            <li class="list-group-item">
+                <a href="/media/arquivos/RELA%C3%87%C3%83O_DE_TRABALHOS_APROVADOS_DO_CAMPUS_MORRINHOS.pdf"><i class="fas fa-file mr-1"></i>RELAÇÃO DE TRABALHOS APROVADOS DO CAMPUS MORRINHOS</a>
+                <div>
+                    <small>
+                        Publicado em 8 de Setembro de 2026 às 16:53
+                    </small>
+                </div>
+            </li>
+            
+            <li class="list-group-item">
+                <a href="/media/arquivos/RELA%C3%87%C3%83O_DE_TRABALHOS_APROVADOS_DO_CAMPUS_IPOR%C3%81.pdf"><i class="fas fa-file mr-1"></i>RELAÇÃO DE TRABALHOS APROVADOS DO CAMPUS IPORÁ</a>
+                <div>
+                    <small>
+                        Publicado em 8 de Setembro de 2026 às 16:53
+                    </small>
+                </div>
+            </li>
+            
+            <li class="list-group-item">
+                <a href="/media/arquivos/RELA%C3%87%C3%83O_DE_TRABALHOS_APROVADOS_DO_CAMPUS_IPAMERI.pdf"><i class="fas fa-file mr-1"></i>RELAÇÃO DE TRABALHOS APROVADOS DO CAMPUS IPAMERI</a>
+                <div>
+                    <small>
+                        Publicado em 8 de Setembro de 2026 às 16:53
+                    </small>
+                </div>
+            </li>
+            
+            <li class="list-group-item">
+                <a href="/media/arquivos/RELA%C3%87%C3%83O_DE_TRABALHOS_APROVADOS_DO_CAMPUS_HIDROL%C3%82NDIA.pdf"><i class="fas fa-file mr-1"></i>RELAÇÃO DE TRABALHOS APROVADOS DO CAMPUS HIDROLÂNDIA</a>
+                <div>
+                    <small>
+                        Publicado em 8 de Setembro de 2026 às 16:52
+                    </small>
+                </div>
+            </li>
+            
+            <li class="list-group-item">
+                <a href="/media/arquivos/RELA%C3%87%C3%83O_DE_TRABALHOS_APROVADOS_DO_CAMPUS_CRISTALINA.pdf"><i class="fas fa-file mr-1"></i>RELAÇÃO DE TRABALHOS APROVADOS DO CAMPUS CRISTALINA</a>
+                <div>
+                    <small>
+                        Publicado em 8 de Setembro de 2026 às 16:52
+                    </small>
+                </div>
+            </li>
+            
+            <li class="list-group-item">
+                <a href="/media/arquivos/RELA%C3%87%C3%83O_DE_TRABALHOS_APROVADOS_DO_CAMPUS_CERES.pdf"><i class="fas fa-file mr-1"></i>RELAÇÃO DE TRABALHOS APROVADOS DO CAMPUS CERES</a>
+                <div>
+                    <small>
+                        Publicado em 8 de Setembro de 2026 às 16:51
+                    </small>
+                </div>
+            </li>
+            
+            <li class="list-group-item">
+                <a href="/media/arquivos/RELA%C3%87%C3%83O_DE_TRABALHOS_APROVADOS_DO_CAMPUS_CATAL%C3%83O.pdf"><i class="fas fa-file mr-1"></i>RELAÇÃO DE TRABALHOS APROVADOS DO CAMPUS CATALÃO</a>
+                <div>
+                    <small>
+                        Publicado em 8 de Setembro de 2026 às 16:51
+                    </small>
+                </div>
+            </li>
+            
+            <li class="list-group-item">
+                <a href="/media/arquivos/RELA%C3%87%C3%83O_DE_TRABALHOS_APROVADOS_DO_CAMPUS_CAMPOS_BELOS.pdf"><i class="fas fa-file mr-1"></i>RELAÇÃO DE TRABALHOS APROVADOS DO CAMPUS CAMPOS BELOS</a>
+                <div>
+                    <small>
+                        Publicado em 8 de Setembro de 2026 às 16:51
+                    </small>
+                </div>
+            </li>
+            
+            <li class="list-group-item">
+                <a href="/media/arquivos/ppt_Integra_banner2.pptx"><i class="fas fa-file mr-1"></i>MODELO APRESENTAÇÃO BANNER</a>
+                <div>
+                    <small>
+                        Publicado em 26 de Agosto de 2026 às 15:42
+                    </small>
+                </div>
+            </li>
+            
+            <li class="list-group-item">
+                <a href="/media/arquivos/Orienta%C3%A7%C3%B5es_para_Apresenta%C3%A7%C3%A3o_na_Modalidade_P%C3%B4ster_b7AqgHQ.pdf"><i class="fas fa-file mr-1"></i>Orientações para Apresentação na Modalidade Pôster</a>
+                <div>
+                    <small>
+                        Publicado em 26 de Agosto de 2026 às 15:41
+                    </small>
+                </div>
+            </li>
+            
+            <li class="list-group-item">
+                <a href="/media/arquivos/MODELO_APRESENTA%C3%87%C3%83O_ORAL_BOLSISTAS_CNPq_8_INTEGRA.pptx"><i class="fas fa-file mr-1"></i>MODELO APRESENTAÇÃO ORAL BOLSISTAS CNPq</a>
+                <div>
+                    <small>
+                        Publicado em 21 de Agosto de 2026 às 11:34
+                    </small>
+                </div>
+            </li>
+            
+            <li class="list-group-item">
+                <a href="/media/arquivos/Orienta%C3%A7%C3%B5es_para_elabora%C3%A7%C3%A3o_e_apresenta%C3%A7%C3%A3o_dos_trabalhos_orais_Bolsistas_CNPq.pdf"><i class="fas fa-file mr-1"></i>Orientações para elaboração e apresentação dos Trabalhos Modalidade Oral - Bolsistas CNPq</a>
+                <div>
+                    <small>
+                        Publicado em 21 de Agosto de 2026 às 11:32
+                    </small>
+                </div>
+            </li>
+            
+            <li class="list-group-item">
+                <a href="/media/arquivos/Guia_de_Alimenta%C3%A7%C3%A3o_e_Hospedagem_-_2026.pdf"><i class="fas fa-file mr-1"></i>Guia de Alimentação e Hospedagem em Campos Belos</a>
+                <div>
+                    <small>
+                        Publicado em 18 de Maio de 2026 às 14:30
+                    </small>
+                </div>
+            </li>
+            
+    </ul>
+</div>
+                        </div>
+                    </div>
+                
+                
+                    <div class="main-content-event">
+                        <div>
+                            
+
+
+<h4>SUBMISSÕES</h4>
+<div class="row">
+    <h5>Prazo de Submissão de Trabalhos Científicos:</h5>
+    <ul class="form-group">
+        <li class="list-group-item">
+            22/06/2026 a 14/08/2026
+        </li>
+    </ul>
+    <div class="main-button-eventos">
+        
+            
+
+        
+        
+            <a class="cta-btn btn-warning float-left mt-1 mr-3 mb-3"
+               href="/gerenciador/evento/integra2026/submissoes/trabalhocientifico/">
+                <i class="fa fa-lock mr-1"></i>Espaço do Avaliador
+            </a>
+        
+    </div>
+</div>
+
+
+
+
+    <div class="row my-2">
+        <h5>Modalidades:</h5>
+        <ul class="form-group">
+            
+                <li class="list-group-item">
+                    
+                        <a href="/media/static/trabalhos/modalidades/Instru%C3%A7%C3%B5es_de_Submiss%C3%A3o_Integra2026_4K4xUKg.pdf" target="_blank">
+                            
+                            Apresentação em Pôster
+                        </a>
+                    
+                </li>
+            
+                <li class="list-group-item">
+                    
+                        <a href="/media/static/trabalhos/modalidades/Instru%C3%A7%C3%B5es_de_Submiss%C3%A3o_Integra2026_nDz8o65.pdf" target="_blank">
+                            
+                            Apresentação Oral - Bolsistas CNPq
+                        </a>
+                    
+                </li>
+            
+                <li class="list-group-item">
+                    
+                        <a href="/media/static/trabalhos/modalidades/Instru%C3%A7%C3%B5es_de_Submiss%C3%A3o_Integra2026_kKfsSlL.pdf" target="_blank">
+                            
+                            Apresentação Oral - Ideias que Integram
+                        </a>
+                    
+                </li>
+            
+                <li class="list-group-item">
+                    
+                        <a href="/media/static/trabalhos/modalidades/Instru%C3%A7%C3%B5es_de_Submiss%C3%A3o_Integra2026.pdf" target="_blank">
+                            
+                            Vitrine Tecnológica
+                        </a>
+                    
+                </li>
+            
+        </ul>
+    </div>
+
+
+
+    <div class="row my-2">
+        <h5>Eixos Temáticos:</h5>
+        <ul class="form-group">
+            
+                <li class="list-group-item ">Ensino</li>
+            
+                <li class="list-group-item ">Extensão</li>
+            
+                <li class="list-group-item ">Ideias que Integram</li>
+            
+                <li class="list-group-item ">Pesquisa</li>
+            
+                <li class="list-group-item ">Vitrine Tecnológica</li>
+            
+        </ul>
+    </div>
+
+
+
+                        </div>
+                    </div>
+                
+            </div>
+        </div>
+    </div>
+</section>
+
+
+    
+
+    <script src="/static/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    
+    <!-- Scripts -->
+    <!-- Bootstrap core JavaScript -->
+    <script src="/static/vendor/jquery/jquery.min.js"></script>
+
+    <!-- Scripts -->
+    <script src="/static/assets/js/isotope.min.js"></script>
+    <script src="/static/assets/js/owl-carousel.js"></script>
+    <script src="/static/assets/js/lightbox.js"></script>
+    <script src="/static/assets/js/tabs.js"></script>
+    <script src="/static/assets/js/video.js"></script>
+    <script src="/static/assets/js/slick-slider.js"></script>
+    <script src="/static/assets/js/custom.js"></script>
+
+
+</div>
+<footer class="main-footer">
+    <div class="container fs-90">
+        <b>&copy; 2026 Portal de Eventos</b>
+        <span class="m-2">|</span>Desenvolvido por <a target="_blank" href="https://ifgoiano.edu.br">IF Goiano</a>.
+        <div class="float-right d-none d-sm-inline-block">
+            <b>Versão</b> 2.0.1
+        </div>
+    </div>
+</footer>
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,5 @@
+# Preserva o HTML coletado, inclusive os espaços que vieram do site.
+pagina_evento.txt -text -whitespace
+*.bat text eol=crlf
+*.py text eol=lf
+*.md text eol=lf

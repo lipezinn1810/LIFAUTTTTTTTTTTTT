@@ -1,0 +1,2 @@
+# Usa somente a biblioteca padrão do Python 3.10 ou superior.
+# Não é necessário instalar pacotes com pip.
